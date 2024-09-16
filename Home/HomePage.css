@@ -1,0 +1,41 @@
+.container{
+  background: linear-gradient(blue,yellow);
+  opacity: 0,1;
+}
+.MenuSection{
+  width: 100%;
+}
+
+
+.slay{
+  height: 58px;
+}
+.menu {
+    background-color: #CCE0FF;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100%; 
+  }
+  
+ .menu a {
+    color: black;
+  }
+.logo{
+  display: flex;
+  
+  
+}  
+.active{
+  text-transform: uppercase;
+  
+  padding-left: 30px;
+  
+ 
+}
+.styletext{
+  padding-left: 50px;
+  text-transform: uppercase;  
+  
+  
+}
+

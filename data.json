@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": "8",
+      "name": "Áo Cầu Lông",
+      "info": "Áo Cầu Lông",
+      "detail": "Đường may chắc chắn và kỹ lưỡng đảm bảo độ bền lâu dài",
+      "price": 150000,
+      "imageName": "https://wsport.vn/sites/default/files/styles/original/public/ao-cau-long-1802_0.jpg?itok=MT6luZCl",
+      "ratingStar": 4.3,
+      "manufacturerId": 2,
+      "categoryId": 4,
+      "manufacturerName": "Mizono",
+      "categoryName": "Áo Thun Cầu lông"
+    },
+    {
+      "name": "Giày Cầu Lông Kawasaki 3324 - Trắng Xanh",
+      "price": "750",
+      "info": "Giày Cầu Lông Kawasaki 3324 - Trắng Xanh",
+      "detail": "Giày cầu lông Kawasaki 3324 có thiết kế vô cùng đơn giản nhưng không kém phần sang trọng.",
+      "ratingStar": "4.5",
+      "imageName": "https://wsport.vn/sites/default/files/styles/original/public/giay-cau-long-kawasaki-3324-trang-xanh-chinh-hang_2.jpg?itok=C_-j3MPe",
+      "manufacturerName": "1",
+      "categoryName": "2",
+      "id": "9"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Vợt Cầu Lông"
+    },
+    {
+      "id": "2",
+      "name": "Áo Thun Cầu lông"
+    },
+    {
+      "id": "3",
+      "name": "Giày"
+    },
+    {
+      "id": "4",
+      "name": "Balo Vợt cầu lông"
+    },
+    {
+      "id": "25",
+      "name": "Áo Giữ Nhiệt"
+    }
+  ],
+  "manufacturers": [
+    {
+      "id": "1",
+      "name": "Linning"
+    },
+    {
+      "id": "2",
+      "name": "Yonex"
+    },
+    {
+      "id": "3",
+      "name": "Mizono"
+    },
+    {
+      "id": "4",
+      "name": "Kumpoo"
+    },
+    {
+      "id": "5",
+      "name": "Victor"
+    },
+    {
+      "id": "6",
+      "name": "Ashaway"
+    },
+    {
+      "id": "7",
+      "name": "VS"
+    },
+    {
+      "id": "8",
+      "name": "GuangGyu"
+    },
+    {
+      "id": "9",
+      "name": "Coolmax"
+    },
+    {
+      "id": "10",
+      "name": "Kawasaki"
+    },
+    {
+      "id": "11",
+      "name": "Nike"
+    },
+    {
+      "id": "12",
+      "name": "Puma"
+    },
+    {
+      "id": "13",
+      "name": "Adidas"
+    }
+  ]
+}

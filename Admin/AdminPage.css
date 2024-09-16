@@ -1,0 +1,28 @@
+.menu {
+    background-color:#7431FA;
+    font-size: 19px;
+    font-weight: bold;
+  }
+  
+ .menu a {
+    color: black;
+  }
+  .table-hover{
+    width: 300px;
+  }
+
+  
+  .btnClass{
+    border: none #7FFFD4; background-color: white; width: 100%
+  }
+  .btnClass:focus {
+    color: blue
+  }
+  .sizetext{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100px;
+  }
+
+  
